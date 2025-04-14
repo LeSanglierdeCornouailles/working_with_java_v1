@@ -4,27 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a972b86-9a79-40ba-85fd-49c1c2f4f5b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheckCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheckingIfInputIsPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheckingIfItIsPrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheckingIfVowel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheckingInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheckingInheritance1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassRemovingWhiteSpaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FibonacciSeq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReversingString1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+    <list default="true" id="3a972b86-9a79-40ba-85fd-49c1c2f4f5b5" name="Changes" comment="Initiate project">
+      <change afterPath="$PROJECT_DIR$/src/CleaningAnyString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LeSanglierdeCornouailles&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LeSanglierdeCornouailles/working_with_java.git&quot;,
+    &quot;accountId&quot;: &quot;023f111f-3ae2-40ce-af23-2a98908a5000&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -59,6 +53,7 @@
     "Application.CheckingInheritance.executor": "Run",
     "Application.CheckingInheritance1.executor": "Run",
     "Application.ClassRemovingWhiteSpaces.executor": "Run",
+    "Application.CleaningAnyString.executor": "Run",
     "Application.FibonacciSeq.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.OddNumbers.executor": "Run",
@@ -75,7 +70,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ClassRemovingWhiteSpaces">
+  <component name="RunManager" selected="Application.CleaningAnyString">
     <configuration name="CheckingIfInputIsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CheckingIfInputIsPalindrome" />
       <module name="untitled" />
@@ -83,15 +78,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckingIfItIsPrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CheckingIfItIsPrimeNumber" />
+    <configuration name="ClassRemovingWhiteSpaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassRemovingWhiteSpaces" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassRemovingWhiteSpaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClassRemovingWhiteSpaces" />
+    <configuration name="CleaningAnyString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CleaningAnyString" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CleaningAnyString" />
         <item itemvalue="Application.ClassRemovingWhiteSpaces" />
         <item itemvalue="Application.CheckingIfInputIsPalindrome" />
         <item itemvalue="Application.OddNumbers" />
         <item itemvalue="Application.FibonacciSeq" />
-        <item itemvalue="Application.CheckingIfItIsPrimeNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +125,39 @@
       <option name="presentableId" value="Default" />
       <updated>1743597365618</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initiate project">
+      <option name="closed" value="true" />
+      <created>1744558319569</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744558319569</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initiate project">
+      <option name="closed" value="true" />
+      <created>1744558479733</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744558479733</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initiate project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initiate project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
